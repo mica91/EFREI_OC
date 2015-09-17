@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("OUTIL COLLABORATIIIIIIIIIF");
+		System.out.println("lol OUTIL COLLABORATIIIIIIIIIF");
 	}
 
 }
